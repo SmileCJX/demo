@@ -1,4 +1,4 @@
-package com.imooc;
+package com.imooc.demo;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
